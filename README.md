@@ -27,7 +27,7 @@ Feel free to contribute, provide feedback, or reach out with any inquiries.
 
 ## Preview
 
-[Top_side](top.PNG)
-[Bot_side](bottom.PNG)
+[Top_side](top.png)
+[Bot_side](bottom.png)
 
 
